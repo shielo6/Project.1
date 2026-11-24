@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Pandesal",
+        "stock": 108,
+        "status": "Healthy"
+    },
+    {
+        "name": "Ensaymada",
+        "stock": 42,
+        "status": "Healthy"
+    },
+    {
+        "name": "Spanish Bread",
+        "stock": 84,
+        "status": "Healthy"
+    },
+    {
+        "name": "Hopia",
+        "stock": 28,
+        "status": "Healthy"
+    },
+    {
+        "name": "Ube Bread",
+        "stock": 67,
+        "status": "Healthy"
+    },
+    {
+        "name": "Cheese Roll",
+        "stock": 55,
+        "status": "Healthy"
+    },
+    {
+        "name": "Monay",
+        "stock": 19,
+        "status": "Healthy"
+    },
+    {
+        "name": "Pan de Coco",
+        "stock": 30,
+        "status": "Healthy"
+    },
+    {
+        "name": "Putok (Star Bread)",
+        "stock": 30,
+        "status": "Healthy"
+    },
+    {
+        "name": "Pan de Monggo",
+        "stock": 30,
+        "status": "Healthy"
+    },
+    {
+        "name": "Bicho-Bicho",
+        "stock": 29,
+        "status": "Healthy"
+    },
+    {
+        "name": "Pinagong",
+        "stock": 30,
+        "status": "Healthy"
+    },
+    {
+        "name": "Pan de Leche",
+        "stock": 30,
+        "status": "Healthy"
+    },
+    {
+        "name": "Pianono",
+        "stock": 30,
+        "status": "Healthy"
+    }
+]

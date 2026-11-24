@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: panaderia-pilipina
+    runtime: docker
+    plan: starter
+    healthCheckPath: /health.php
+    disk:
+      name: panaderia-data
+      mountPath: /var/data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /var/data
+      - key: ADMIN_EMAIL
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: APP_ENV
+        value: production
+      - key: DEMO_PASSWORD_RESET
+        value: "false"
